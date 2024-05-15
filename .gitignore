@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.env.example
+
+#Hardhat files
+cache
+artifacts
+DydxFlashloaner.json
+UniswapFlashloaner.json
